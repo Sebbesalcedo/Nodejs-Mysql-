@@ -1,5 +1,5 @@
 {
-  "name": "NODEJS-MYSQL-APP",
+  "name": "nodejs-mysql-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "dev":"nodemon src/"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sebastian Salcedo",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
